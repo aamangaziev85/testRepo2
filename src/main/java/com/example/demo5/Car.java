@@ -3,6 +3,7 @@ package com.example.demo5;
 public class Car {
     private String name;
     private String name2;
+    private String name3;
     private int year;
 
     public String getName() {
