@@ -12,6 +12,7 @@ public class Car {
     private String name10;
     private String name9;
     private String name11;
+    private String name12;
     private int year;
     private int year2;
 
