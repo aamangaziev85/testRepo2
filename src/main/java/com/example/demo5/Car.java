@@ -5,7 +5,7 @@ public class Car {
     private String name2;
     private String name3;
     private String name4;
-    private String name6;
+    private String name5;
     private int year;
 
     public String getName() {
