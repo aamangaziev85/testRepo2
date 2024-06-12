@@ -11,6 +11,7 @@ public class Car {
     private String name8;
     private String name10;
     private String name9;
+    private String name11;
     private int year;
     private int year2;
 
