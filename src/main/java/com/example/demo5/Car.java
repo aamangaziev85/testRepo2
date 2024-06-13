@@ -36,6 +36,7 @@ public class Car {
     private String nura;
     private String cat;
     private String tala;
+    private String manky;
     private String zura;
     private int year;
     private int year2;
