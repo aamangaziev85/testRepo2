@@ -26,6 +26,7 @@ public class Car {
     private String nov;
     private String kana;
     private String dec;
+    private String egor;
     private int year;
     private int year2;
 
