@@ -49,7 +49,7 @@ public class Car {
     private String lida;
     private String rus;
     private String nurs;
-    private String lida;
+    private String nurs5;
     private int year;
     private int year2;
 
