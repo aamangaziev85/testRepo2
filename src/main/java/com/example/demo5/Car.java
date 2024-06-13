@@ -34,6 +34,7 @@ public class Car {
     private String figma;
     private String dog;
     private String nura;
+    private String cat;
     private String tala;
     private int year;
     private int year2;
