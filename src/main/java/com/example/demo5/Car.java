@@ -40,6 +40,7 @@ public class Car {
     private String zura;
     private String fish;
     private String guly;
+    private String pig;
     private String inna;
     private int year;
     private int year2;
