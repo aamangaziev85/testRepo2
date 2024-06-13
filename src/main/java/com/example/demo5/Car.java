@@ -51,6 +51,7 @@ public class Car {
     private String lida;
     private String dog5;
     private String nurs5;
+    private String rrrr;
     private String nurs55;
     private int year;
     private int year2;
