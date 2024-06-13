@@ -23,6 +23,7 @@ public class Car {
     private String feb;
     private String mar;
     private String apr;
+    private String avg;
     private int year;
     private int year2;
 
