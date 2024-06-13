@@ -32,6 +32,7 @@ public class Car {
     private String rita;
     private String tany;
     private String figma;
+    private String nura;
     private int year;
     private int year2;
 
