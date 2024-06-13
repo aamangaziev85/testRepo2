@@ -49,6 +49,7 @@ public class Car {
     private String rus;
     private String nurs;
     private String lida;
+    private String dog5;
     private int year;
     private int year2;
 
