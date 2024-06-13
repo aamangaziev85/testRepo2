@@ -38,6 +38,7 @@ public class Car {
     private String tala;
     private String manky;
     private String zura;
+    private String guly;
     private int year;
     private int year2;
 
