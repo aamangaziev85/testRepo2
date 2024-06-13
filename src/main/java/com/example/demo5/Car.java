@@ -46,6 +46,7 @@ public class Car {
     private String ira;
     private String lion;
     private String sveta;
+    private String rus;
     private int year;
     private int year2;
 
